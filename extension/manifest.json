@@ -1,0 +1,19 @@
+{
+  "manifest_version": 2,
+  "name": "My Extension",
+  "version": "1.0",
+  "browser_action": {
+    "default_title": " ",
+    "default_icon" : {
+      "19": "45.png",
+      "38": "4538.png"
+    }
+  },
+"background":{
+    "scripts": ["nav.js"]
+  },
+  "content_scripts" :[{
+    "matches" : [ "http://67.media.tumblr.com/83b7e579c0dfc2b638c13fde663bf27f/tumblr_o0sc76F10x1v1z098o1_400.gif"],
+    "js" : ["dcRando.js"]
+  }]
+}
