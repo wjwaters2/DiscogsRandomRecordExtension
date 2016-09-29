@@ -1,5 +1,5 @@
 var form = document.createElement("form")
-form.setAttribute("action", "https://www.discogs.com/user/demr_awd/collection") 
+form.setAttribute("action", "https://www.discogs.com/user/{USER_NAME}/collection") 
 form.setAttribute("method", "post")
 form.setAttribute("id", "random_list_form") 
 var input = document.createElement("input") 
