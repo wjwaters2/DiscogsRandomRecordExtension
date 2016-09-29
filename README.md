@@ -1,5 +1,16 @@
-# DiscogsRandomRecordExtension
-<<<<<<< HEAD
-=======
-# DiscogsRandomRecordExtension
->>>>>>> 05af50c7bfcc271f89a980da3689ba6d62e5fc3f
+## Synopsis
+
+Tired of navigating back to your 'Collection' page to be able to generate a random record search? Worry no more! I have included what is needed to build two extensions. "Extension" is the workhorse that will generate the random search. "Discogs Extension" is the 'trigger' extension (couldn't get the first extension to work onClick() so this one 'reloads' the extension).
+
+## Code Example
+
+This project is made of very basic (and probably poorly written) javascript. If unfamiliar with how to create extensions, visit https://developer.chrome.com/extensions/manifest to learn more
+
+## Motivation
+
+See Synopsis :D
+
+## Installation
+
+Once you download the two folders, place were desired and create the extensions to point to the locations. Note: I hid my 'extension' that is being reference in the chrome menu to lessen the confusion on which one works on click. Also, you will of course have to change your file location in the manifest.json and .js files as well as point to the correct extension id in the discogs extension.
+
