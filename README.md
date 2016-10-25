@@ -4,7 +4,7 @@ Tired of navigating back to your 'Collection' page to be able to generate a rand
 
 ## Code Example
 
-This project is made of very basic (and probably poorly written) javascript. If unfamiliar with how to create extensions, visit https://developer.chrome.com/extensions/manifest to learn more
+Basic JS / JSON. If unfamiliar with how to create extensions, visit https://developer.chrome.com/extensions/manifest to learn more.
 
 ## Motivation
 
