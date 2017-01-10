@@ -1,3 +1,5 @@
+![45](/extension/4538.png)
+
 ## Synopsis
 
 Tired of navigating back to your 'Collection' page to be able to generate a random record search? Worry no more! I have included what is needed to build two extensions. "Extension" is the workhorse that will generate the random search. "Discogs Extension" is the 'trigger' extension ("Extension" works on open or reload. "Discogs Extension" reloads / updates).
