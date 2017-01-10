@@ -14,7 +14,7 @@ See Synopsis :D
 
 Once you download the two folders, place were desired and create the extensions to point to the locations. Note: I hid my 'extension' that is being reference in the chrome menu to lessen the confusion on which one works on click. Also, you will of course have to change your file location in the manifest.json and .js files as well as point to the correct extension id in the discogs extension.
 
-## Click Me In The Toolbar...
+## Click The 45 Adapter In The Toolbar...
 ![45](/extension/4538.png)
 ## ... And I'll Find You Something To Listen To
 ![search](http://67.media.tumblr.com/83b7e579c0dfc2b638c13fde663bf27f/tumblr_o0sc76F10x1v1z098o1_400.gif)
