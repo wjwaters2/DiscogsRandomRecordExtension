@@ -13,7 +13,7 @@
     "scripts": ["nav.js"]
   },
   "content_scripts" :[{
-    "matches" : [ "http://www.dirtydiscoradio.com/wp-content/uploads/2014/10/tumblr_mqe93br8Er1r5nowgo1_1280.jpg"],
+    "matches" : [ "https://media.giphy.com/media/ioQmkofNomRfq/giphy.gif"],
     "js" : ["dcRando.js"]
   }]
 }
