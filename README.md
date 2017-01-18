@@ -17,4 +17,4 @@ Once you download the two folders, place were desired and create the extensions 
 ## Click The 45 Adapter In The Toolbar...
 ![45](/extension/4538.png)
 ## ... And I'll Find You Something To Listen To
-![search](http://67.media.tumblr.com/83b7e579c0dfc2b638c13fde663bf27f/tumblr_o0sc76F10x1v1z098o1_400.gif)
+![search](https://media.giphy.com/media/ioQmkofNomRfq/giphy.gif)
