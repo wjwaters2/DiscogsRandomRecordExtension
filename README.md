@@ -18,3 +18,11 @@ Once you download the two folders, place were desired and create the extensions 
 ![45](/extension/4538.png)
 ## ... And I'll Find You Something To Listen To
 ![search](https://media.giphy.com/media/ioQmkofNomRfq/giphy.gif)
+
+## .bat File (Windows Users)
+
+Added .bat file to be run as admin. This will remove the annoying 'Developer Extention' message you see everytime you open Chrome. Prior to running this, you'll need to add the following to your **PATH** environment variable:
+
+~~~
+%SYSTEMROOT%\System32\WindowsPowerShell\v1.0\
+~~~
