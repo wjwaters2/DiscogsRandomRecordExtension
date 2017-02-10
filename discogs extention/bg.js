@@ -1,4 +1,4 @@
-var id = "{CHROME_EXTENSION_ID}";
+var id = "jhghdiobedfbmficngikanbkbgeicbpf";
 function reloadExtension(id) {
     chrome.management.setEnabled(id, false, function() {
         chrome.management.setEnabled(id, true);
